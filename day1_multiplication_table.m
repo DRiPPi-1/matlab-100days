@@ -1,3 +1,7 @@
+% Artist: Hlumelo Siyo
+% GitHub username: DRiPPi-1
+% Day 1/100: Multiplication Table
+
 clear
 n=input("Enter number: ");
 for i=1:n
